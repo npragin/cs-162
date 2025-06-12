@@ -41,10 +41,3 @@ Each assignment is contained in its own directory with its own README file conta
 ## Requirements
 - C++11
 - Make
-
-## Author
-[Your Name]
-
-## License
-This project is for educational purposes only.
-
