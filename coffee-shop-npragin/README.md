@@ -1,4 +1,4 @@
-# Coffee++ Cafe
+# Coffee++ Shop
 
 A C++ program that simulates a coffee shop management system. The program allows users to manage coffee orders, track inventory, and handle customer transactions.
 
