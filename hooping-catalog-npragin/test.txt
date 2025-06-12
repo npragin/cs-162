@@ -1,0 +1,21 @@
+Phoenix_Flames Sarah_Johnson 4500000 6
+James_Bryant 25 USA 38.299999 0.440000
+Olivia_Martinez 23 Brazil 16.700001 0.420000
+Liam_Wilson 29 England 21.200001 0.500000
+Daniel_Santos 28 Argentina 19.100000 0.470000
+Elena_Kovalenko 30 Russia 17.600000 0.460000
+Lucas_Silva 26 Portugal 5.900000 0.430000
+Phoenix_Flames: James_Bryant 38.299999
+Galaxy_Guardians: Dame_Dolla 32.099998
+Thunder_Strikers: Alex_Johnson 22.500000
+Blizzard_Bears: Ethan_Davis 26.799999
+James_Bryant 25
+Marcus_Rodriguez 26
+Dame_Dolla 31
+Sharp_Shooter 18
+Alex_Johnson 28
+Ethan_Davis 31
+Phoenix_Flames 118.799995
+Galaxy_Guardians 87.900002
+Thunder_Strikers 85.799995
+Blizzard_Bears 57.700001

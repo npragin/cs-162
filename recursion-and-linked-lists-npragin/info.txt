@@ -1,0 +1,18 @@
+1. Noah Pragin praginn@oregonstate.edu ID#933-887-708
+2. Recursion: Run make and test
+   Linked List: Run make and test
+3. Be aware that I changed the order of the index and value parameters of
+   linked_list::insert, because the test file used a different interface than
+   the one provided in the starter code.
+   https://discord.com/channels/1220783303779684382/1220783868261695558/1245177500552659054
+4. No extra credit.
+5. I used merge sort for both ascending and descending sort. The complexity of merge sort
+   is O(nlog(n)), where n is the input size. Merge sort works by repeatedly splitting the
+   input in half, reducing the number of operations required. Splitting the data
+   structure in half means splitting the log base two of n times. Further, after each
+   split, I merge the structures, requiring n operations, resulting in a complexity of
+   O(nlog(n)). The improvement from a complexity of O(n^2) results from the divide-and-
+   conquer approach. Again, I use the same algorithm for both ascending and descending
+   sorts. The only difference is the portion responsible for merging, which differs only
+   in prioritizing the smaller vs larger number, which I fixed by passing a boolean
+   indicating the sort order.
